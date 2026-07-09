@@ -2,7 +2,7 @@
 
 This repository contains SQL exercises completed using the **Pagila** sample database for PostgreSQL. The project demonstrates fundamental and advanced SQL techniques commonly used in data analysis and business intelligence.
 
----
+
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ The exercises cover:
 - Window functions
 - Business-oriented SQL analysis
 
----
+
 
 ## Technologies
 
@@ -26,7 +26,7 @@ The exercises cover:
 - SQL
 - pgAdmin
 
----
+
 
 ## SQL Topics
 
@@ -43,7 +43,7 @@ The exercises cover:
 - LAG
 - DENSE_RANK
 
----
+
 
 ## Project Structure
 
@@ -85,7 +85,7 @@ sql-pagila-practice/
 - Rank films by duration within each category
 - Monthly revenue analysis with previous-month comparison
 
----
+
 
 ## Skills Demonstrated
 
@@ -96,7 +96,7 @@ sql-pagila-practice/
 - Using aggregate and window functions
 - Query optimization fundamentals
 
----
+
 
 ## Author
 
