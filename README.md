@@ -48,13 +48,12 @@ The exercises cover:
 ## Project Structure
 
 ```
-sql-pagila-practice/
+sql_pagila_practice/
 │
 ├── README.md
 ├── pagila.sql
 ```
 
----
 
 ## Tasks Included
 
