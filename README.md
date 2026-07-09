@@ -51,8 +51,7 @@ The exercises cover:
 sql-pagila-practice/
 │
 ├── README.md
-├── queries.sql
-└── screenshots/
+├── pagila.sql
 ```
 
 ---
